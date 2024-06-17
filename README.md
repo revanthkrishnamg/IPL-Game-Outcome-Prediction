@@ -45,6 +45,7 @@ For fielding metrics, the weighting process reflects the relative importance of 
 
 ### Integrating IPL and International Data
 We combined IPL statistics with international performance data to provide a comprehensive view of each player's capabilities, adjusting the weights to favor more relevant IPL performances.
+
 ![image](https://github.com/revanthkrishnamg/IPL-Game-Outcome-Prediction/assets/149286080/b4113e69-c94f-4f18-b21b-1f0bc647e275)
 
 ### Feature Engineering
