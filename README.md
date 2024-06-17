@@ -80,6 +80,7 @@ After optimizing the models, we conducted further testing to confirm their pract
 
 ### Majority Voting Classifier
 We implemented a majority voting classifier combining predictions from LightGBM, Random Forest, and XGBoost, achieving an accuracy of 71.58%. This ensemble approach leveraged the strengths of individual models to enhance overall prediction accuracy.
+
 ![image](https://github.com/revanthkrishnamg/IPL-Game-Outcome-Prediction/assets/149286080/2aab39ae-56ab-4deb-b06a-989c3f553a6f)
 
 ## Implications and Future Directions
