@@ -90,3 +90,8 @@ Our study underscores the importance of incorporating fielding statistics into p
 
 ### Future Work
 Future research will explore integrating real-time data, applying models to other cricket formats, and updating player form data annually. We also plan to investigate the impact of external factors like weather and pitch conditions on match outcomes.
+
+## Team
+Revanth Krishna
+Shashanka JJ
+Manoj
